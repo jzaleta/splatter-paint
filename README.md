@@ -24,6 +24,8 @@ It was made possible with the help of Hack Club's ``` Splatter-Paint ``` [Worksh
 # How to use it 💻
 
 Splatter Paint is very easy to use, just open the canvas and start drawing!
+
+![](canvas.svg)
 > This is how the canvas looks before drawing anything.
 
 # License 🍱
