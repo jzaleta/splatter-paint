@@ -1,4 +1,5 @@
 tool.fixedDistance = 30
+var layer = project.activeLayer
 
 function onMouseMove(event) {
   var path = new Path.Circle({
