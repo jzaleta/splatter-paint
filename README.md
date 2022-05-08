@@ -23,6 +23,9 @@ It was made possible with the help of Hack Club's ``` Splatter-Paint ``` [Worksh
 
 # How to use it 💻
 
+Splatter Paint is very easy to use, just open the canvas and start drawing!
+> This how the canvas looks before drawing anything.
+
 # License 🍱
 
 Splatter Paint is Open-Source through the [MIT License](https://github.com/J-cordz/Splatter-Paint/blob/main/LICENSE). 
