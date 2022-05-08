@@ -12,3 +12,15 @@ function onMouseMove(event) {
     brightness: 1
   }
 }
+
+var myPath;
+
+        function onMouseDown(event) {
+            myPath = new Path();
+            myPath.strokeColor = 'teal';
+            myPath.strokeWidth =8;
+        }
+        
+        function onMouseDrag(event) {
+            myPath.add(event.point);
+        }
