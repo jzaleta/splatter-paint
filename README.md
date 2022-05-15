@@ -9,7 +9,7 @@
   
 # About 🗃️
 
-[Splatter Paint](https://splatterpaint.vercel.app/) is a website featuring a simple yet awesome coding solution to draw on a HTML Canvas, and it's made using the ```  Paper.js ```  Library.
+[Splatter Paint](https://splatterpaint.vercel.app/) is a website featuring a simple yet awesome coding solution to draw on a HTML Canvas, and it's made using HTML, CSS and JavaScript with the ```  Paper.js ```  Library.
 It was made possible with the help of Hack Club's ``` Splatter-Paint ``` [Workshop](https://workshops.hackclub.com/splatter_paint/), customized in depth with different options like:
 
 - Moving around the mouse to draw circles of different sizes and colors.
