@@ -44,7 +44,7 @@ function onMouseMove(event) {
 
 Splatter Paint is very easy to use, just open the canvas and start drawing!
 
-![](canvas.svg)
+![](img/canvas.svg)
 > This is how the canvas looks before drawing anything.
 
 # License 🍱
