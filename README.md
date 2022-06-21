@@ -4,6 +4,8 @@
 
 ![GitHub License](https://img.shields.io/github/license/J-cordz/Splatter-Paint?style=for-the-badge)
 ![Stargazers](https://img.shields.io/github/stars/J-cordz/Splatter-Paint?style=for-the-badge)
+  
+[![Vercel](https://img.shields.io/badge/Deployed_with_Vercel-000000.svg?style=for-the-badge&logo=vercel&logoColor=white)](https://splatterpaint.vercel.app/)
 
 </div>
   
@@ -14,11 +16,10 @@ It was made possible with the help of Hack Club's ``` Splatter-Paint ``` [Worksh
 
 - Moving around the mouse to draw circles of different sizes and colors.
 - Dragging the mouse to make a linear path.
-- The ability of export the canvas as a ``` SVG ``` Image.
-- Etc.
 
-[![Vercel](https://img.shields.io/badge/Deployed_with_Vercel-000000.svg?style=for-the-badge&logo=vercel&logoColor=white)](https://splatterpaint.vercel.app/)
-  
+- Things to do: 
+- [ ] The ability of export the canvas as a ``` SVG ``` Image.
+
 <a href="https://hackclub.com/"><img style="position: absolute; top: 0; left: 10px; border: 0; width: 256px; z-index: 999;" src="https://assets.hackclub.com/flag-orpheus-left.svg" alt="Hack Club"/></a>
 
 An example of how the code works under the hood is the following snippet, which function is to make the colorful and random circles that are available on the canvas:
