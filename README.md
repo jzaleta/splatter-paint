@@ -2,8 +2,8 @@
   
 # ``` Splatter Paint 🎨 ```
 
-![GitHub License](https://img.shields.io/github/license/J-cordz/Splatter-Paint?style=for-the-badge)
-![Stargazers](https://img.shields.io/github/stars/J-cordz/Splatter-Paint?style=for-the-badge)
+[![GitHub License](https://img.shields.io/github/license/J-cordz/splatter-paint?style=for-the-badge)](https://github.com/J-cordz/splatter-paint/blob/main/LICENSE)
+[![Stargazers](https://img.shields.io/github/stars/J-cordz/splatter-paint?style=for-the-badge)](https://github.com/J-cordz/splatter-paint/stargazers)
   
 [![Vercel](https://img.shields.io/badge/Deployed_with_Vercel-000000.svg?style=for-the-badge&logo=vercel&logoColor=white)](https://splatterpaint.vercel.app/)
 
