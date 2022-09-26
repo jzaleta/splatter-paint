@@ -48,7 +48,10 @@ Splatter Paint is very easy to use, just open the canvas and start drawing!
 # How does it look 🎨
 
 ![](img/canvas.svg)
-> This is how the canvas looks before drawing anything.
+> ^ This is how the canvas looks before drawing anything.
+
+![](img/painted-canvas.png)
+> ^ This is how the canvas looks after doing some drawings.
 
 # License 🍱
 
