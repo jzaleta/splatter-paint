@@ -1,58 +1,32 @@
-<div align="center">
-  
-# ``` Splatter Paint 🎨 ```
+# ```🎨``` Splatter Paint
 
-[![GitHub License](https://img.shields.io/github/license/J-cordz/splatter-paint?style=for-the-badge)](https://github.com/J-cordz/splatter-paint/blob/main/LICENSE)
-[![Stargazers](https://img.shields.io/github/stars/J-cordz/splatter-paint?style=for-the-badge)](https://github.com/J-cordz/splatter-paint/stargazers)
-  
-[![Vercel](https://img.shields.io/badge/Deployed_with_Vercel-000000.svg?style=for-the-badge&logo=vercel&logoColor=white)](https://splatterpaint.vercel.app/)
+![](https://img.shields.io/github/languages/top/javierzaleta/splatter-paint?color=red)
+![](https://img.shields.io/github/languages/count/javierzaleta/splatter-paint)
+![](https://img.shields.io/github/license/javierzaleta/splatter-paint)
+![](https://img.shields.io/github/stars/javierzaleta/splatter-paint?style=social)
 
-</div>
-  
-# About 🗃️
+## 🍱 About
 
-[Splatter Paint](https://splatterpaint.vercel.app/) is a website featuring a simple yet awesome coding solution to draw on a HTML Canvas, and it's built using HTML, CSS and JavaScript with the ```  Paper.js ```  Library.
-It was made possible with the help of Hack Club's ``` Splatter-Paint ``` [Workshop](https://workshops.hackclub.com/splatter_paint/), customized in depth with different options like:
+[Splatter Paint](https://splatterpaint.vercel.app/) is a simple splatter painting website built with with an HTML canvas and Paper.js which allows to make colorful shapes in the browser: 
 
-- Moving around the mouse to draw circles of different sizes and colors.
-- Dragging the mouse to make a linear path.
+- Random circles of different colors and size when moving the mouse.
+- Brush strokes of different colors and thickness when dragging it.
 
-- Things to do: 
-- [ ] The ability of export the canvas as a ``` SVG ``` Image.
+To do:
+- [ ] Export the canvas as a ```svg``` file.
 
-<a href="https://hackclub.com/"><img style="position: absolute; top: 0; left: 10px; border: 0; width: 256px; z-index: 999;" src="https://assets.hackclub.com/flag-orpheus-left.svg" alt="Hack Club"/></a>
+## 🖌 How does it look:
 
-An example of how the code works under the hood is the following snippet, which function is to make the colorful and random circles that are available on the canvas:
+![](assets/canvas.png)
 
-``` JavaScript
-tool.fixedDistance = 30
-var layer = project.activeLayer
+![](assets/canvas.svg)
 
-function onMouseMove(event) {
-  var path = new Path.Circle({
-    center: event.middlePoint,
-    radius: Math.round(Math.random() * 30) + 5
-  })
-  path.fillColor = {
-    hue: event.count * 3,
-    saturation: 1,
-    brightness: 1
-  }
-}
-```
+> ^ This is what the canvas looked like before drawing anything.
 
-# How to use it 💻
+## 🔧 Contributing
 
-Splatter Paint is very easy to use, just open the canvas and start drawing!
+This project is **_not_ accepting major contributions** as it is personal.
 
-# How does it look 🎨
+## 📜 License
 
-![](img/canvas.svg)
-> ^ This is how the canvas looks before drawing anything.
-
-![](img/painted-canvas.png)
-> ^ This is how the canvas looks after doing some drawings.
-
-# License 🍱
-
-Splatter Paint is Open-Source through the [MIT License](https://github.com/J-cordz/Splatter-Paint/blob/main/LICENSE). 
+Splatter Paint is made open-source with the [MIT License](https://github.com/javierzaleta/splatter-paint/blob/main/LICENSE).
