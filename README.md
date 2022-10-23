@@ -5,7 +5,7 @@
 ![](https://img.shields.io/github/license/javierzaleta/splatter-paint)
 ![](https://img.shields.io/github/stars/javierzaleta/splatter-paint?style=social)
 
-## 🍱 About
+## 🍱 About:
 
 [Splatter Paint](https://splatterpaint.vercel.app/) is a simple splatter painting website built with with an HTML canvas and Paper.js which allows to make colorful shapes in the browser: 
 
@@ -23,7 +23,7 @@ To do:
 
 > ^ This is what the canvas looked like before drawing anything.
 
-## 🔧 Contributing
+## 🔧 Contributing:
 
 This project is **_not_ accepting major contributions** as it is personal.
 
