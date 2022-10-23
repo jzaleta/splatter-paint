@@ -1,4 +1,4 @@
-tool.fixedDistance = 30;
+tool.fixedDistance = 15;
 var layer = project.activeLayer;
 
 function onMouseMove(event) {
