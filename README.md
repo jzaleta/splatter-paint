@@ -27,6 +27,6 @@ To do:
 
 This project is **_not_ accepting major contributions** as it is personal.
 
-## 📜 License
+## 📜 License:
 
 Splatter Paint is made open-source with the [MIT License](https://github.com/javierzaleta/splatter-paint/blob/main/LICENSE).
