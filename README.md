@@ -7,7 +7,7 @@
 
 ## 🍱 About
 
-[Splatter Paint](https://splatterpaint.vercel.app/) is a simple splatter painting website built with with an HTML canvas and Paper.js which allows to make colorful shapes in the browser: 
+[Splatter Paint](https://splatterpaint.vercel.app/) is a simple splatter painting website built with an HTML canvas and Paper.js which allows to make colorful shapes in the browser: 
 
 - Random circles of different colors and size when moving the mouse.
 - Brush strokes of different colors and thickness when dragging it.
