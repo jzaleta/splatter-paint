@@ -2,7 +2,7 @@
 
 ![](https://img.shields.io/github/languages/top/javierzaleta/splatter-paint?color=red)
 ![](https://img.shields.io/github/languages/count/javierzaleta/splatter-paint)
-![](https://img.shields.io/github/license/javierzaleta/splatter-paint)
+[![](https://img.shields.io/github/license/javierzaleta/splatter-paint)](https://github.com/javierzaleta/splatter-paint/blob/main/LICENSE)
 [![](https://img.shields.io/badge/language-en-yellow.svg)](https://github.com/javierzaleta/splatter-paint/blob/main/README.md)
 [![](https://img.shields.io/badge/idioma-es-yellow.svg)](https://github.com/javierzaleta/splatter-paint/blob/main/es/README.md)
 ![](https://img.shields.io/github/stars/javierzaleta/splatter-paint?style=social)
