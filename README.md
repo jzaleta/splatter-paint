@@ -17,7 +17,14 @@
 To do:
 - [ ] Export the canvas as a ```svg``` file.
 
-## 🖌 How does it look
+## 📕 Table of Contents
+
+- [About](#-about)
+- [How it looks](#-how-it-looks)
+- [Contributing](#-contributing)
+- [License](#-license)
+
+## 🖌 How it looks
 
 ![](assets/canvas.png)
 
