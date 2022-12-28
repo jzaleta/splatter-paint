@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
   <head>
     <meta charset="utf-8" />
     <meta
@@ -16,6 +16,21 @@
       canvas="splatterPaint"
       src="/script.js"
     ></script>
+    <script type="text/javascript">
+  document.addEventListener("DOMContentLoaded", function (event) {
+    document.getElementById("download-to-svg").onclick = function () {
+      var fileName = "canvas.svg";
+      var url =
+        "data:image/svg+xml;utf8," +
+        encodeURIComponent(paper.project.exportSVG({ asString: true }));
+      var link = document.createElement("a");
+      link.download = fileName;
+      link.href = url;
+      link.click();
+    };
+  });
+</script>
+
   </head>
 
   <body>
