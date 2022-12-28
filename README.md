@@ -15,7 +15,7 @@
 - Brush strokes of different colors and thickness when dragging it.
 
 To do:
-- [ ] Export the canvas as a ```svg``` file.
+- [x] Export the canvas as a ```svg``` file.
 
 ![](assets/canvas.png)
 
