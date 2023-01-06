@@ -25,7 +25,7 @@ To do:
 
 ## 🍱 Motivations
 
-I made this project as part of the Hack Club [Splatter Paint](https://workshops.hackclub.com/splatter_paint/) workshop to improve my coding skills.
+I made this project as part of the Hack Club [Splatter Paint](https://workshops.hackclub.com/splatter_paint/) workshop to improve my coding skills, which I later enhanced with new features of my own.
 
 <a href="https://hackclub.com/"><img style="position: absolute; top: 0; left: 10px; border: 0; width: 256px; z-index: 999;" src="https://assets.hackclub.com/flag-orpheus-left.svg" alt="Hack Club"/></a>
 
