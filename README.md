@@ -1,7 +1,7 @@
 # ```🎨``` Splatter Paint
 
-![GitHub language count](https://img.shields.io/github/languages/count/J-cordz/splatter-paint)
 ![GitHub top language](https://img.shields.io/github/languages/top/J-cordz/splatter-paint?color=red)
+![GitHub language count](https://img.shields.io/github/languages/count/J-cordz/splatter-paint)
 ![GitHub license](https://img.shields.io/github/license/J-cordz/splatter-paint)
 ![GitHub Repo stars](https://img.shields.io/github/stars/J-cordz/splatter-paint?style=social)
 
