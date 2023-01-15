@@ -3,7 +3,6 @@
 ![GitHub language count](https://img.shields.io/github/languages/count/J-cordz/splatter-paint)
 ![GitHub top language](https://img.shields.io/github/languages/top/J-cordz/splatter-paint?color=red)
 ![GitHub license](https://img.shields.io/github/license/J-cordz/splatter-paint)
-![GitHub all releases](https://img.shields.io/github/downloads/J-cordz/splatter-paint/total)
 ![GitHub Repo stars](https://img.shields.io/github/stars/J-cordz/splatter-paint?style=social)
 
 > #### 🌎 English · [Español](translations/es/README.md)
