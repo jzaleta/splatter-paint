@@ -1,11 +1,12 @@
 # ```🎨``` Splatter Paint
 
-![](https://img.shields.io/github/languages/top/javierzaleta/splatter-paint?color=red)
-![](https://img.shields.io/github/languages/count/javierzaleta/splatter-paint)
-[![](https://img.shields.io/github/license/javierzaleta/splatter-paint)](https://github.com/javierzaleta/splatter-paint/blob/main/LICENSE)
-[![](https://img.shields.io/badge/language-en-yellow.svg)](https://github.com/javierzaleta/splatter-paint/blob/main/README.md)
-[![](https://img.shields.io/badge/idioma-es-yellow.svg)](https://github.com/javierzaleta/splatter-paint/blob/main/es/README.md)
-[![](https://img.shields.io/github/stars/javierzaleta/splatter-paint?style=social)](https://github.com/javierzaleta/splatter-paint/stargazers)
+![GitHub language count](https://img.shields.io/github/languages/count/J-cordz/splatter-paint)
+![GitHub top language](https://img.shields.io/github/languages/top/J-cordz/splatter-paint?color=red)
+![GitHub license](https://img.shields.io/github/license/J-cordz/splatter-paint)
+![GitHub all releases](https://img.shields.io/github/downloads/J-cordz/splatter-paint/total)
+![GitHub Repo stars](https://img.shields.io/github/stars/J-cordz/splatter-paint?style=social)
+
+> #### 🌎 English · [Español](translations/es/README.md)
 
 ## 📜 About
 
@@ -31,8 +32,8 @@ I made this project as part of the Hack Club [Splatter Paint](https://workshops.
 
 ## 🔧 Contributing
 
-This project is **_not_ accepting major contributions** as it is personal. However, if there is an issue — like a spelling or grammatical error, a visual bug, or other kinds of weird things happening — please feel free to [create an issue](https://github.com/javierzaleta/splatter-paint/issues/new).
+This project is **_not_ accepting major contributions** as it is personal. However, if there is an issue — like a spelling or grammatical error, a visual bug, or other kinds of weird things happening — please feel free to [create an issue](https://github.com/J-cordz/splatter-paint/issues/new).
 
 ## 📜 License
 
-Splatter Paint is made open-source with the [MIT License](https://github.com/javierzaleta/splatter-paint/blob/main/LICENSE).
+Splatter Paint is made open-source with the [MIT License](LICENSE).
