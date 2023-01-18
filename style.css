@@ -29,3 +29,8 @@ canvas {
   text-decoration: none;
   cursor: pointer;
 }
+
+#download-to-svg:hover {
+color: white;
+background-color: black;
+}
