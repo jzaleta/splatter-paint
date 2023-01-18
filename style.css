@@ -28,10 +28,11 @@ canvas {
   line-height: 24px;
   text-decoration: none;
   cursor: pointer;
-  transition: background-color 0.5s ease-in-out, color 0.5s ease-in-out;
+  transition: background-color 0.3s ease-in-out, color 0.3s ease-in-out;
 }
 
 #download-to-svg:hover {
   color: white;
   background-color: black;
+  border: 1px solid black;
 }
