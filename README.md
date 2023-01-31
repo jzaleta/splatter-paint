@@ -5,8 +5,6 @@
 ![GitHub license](https://img.shields.io/github/license/J-cordz/splatter-paint)
 ![GitHub Repo stars](https://img.shields.io/github/stars/J-cordz/splatter-paint?style=social)
 
-> #### 🌎 English · [Español](translations/es/README.md)
-
 ## 📜 About
 
 [Splatter Paint](https://splatterpaint.vercel.app/) is a simple splatter painting website built with an HTML canvas and Paper.js which allows to make colorful shapes in the browser: 
