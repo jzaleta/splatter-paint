@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Space+Grotesk&display=swap');
+@import url("https://fonts.googleapis.com/css2?family=Space+Grotesk&display=swap");
 
 html,
 body {
@@ -23,9 +23,10 @@ canvas {
   padding: 2px 7px;
   border: 1px solid white;
   border-radius: 5px;
-  font-family: 'Space Grotesk', sans-serif;
+  font-family: "Space Grotesk", sans-serif;
   font-size: 12px;
   line-height: 24px;
   text-decoration: none;
   cursor: pointer;
 }
+
