@@ -5,6 +5,8 @@
 ![GitHub license](https://img.shields.io/github/license/j-cordz/splatter-paint)
 ![GitHub repo stars](https://img.shields.io/github/stars/j-cordz/splatter-paint?style=social)
 
+Crazy colorful splatter paint in your browser with Paper.js
+
 ## About
 
 [Splatter Paint](https://splatterpaint.vercel.app/) is a simple splatter painting website built using the HTML ```<canvas>``` element and the Paper.js library that allows you to make the following colorful shapes in the browser: 
